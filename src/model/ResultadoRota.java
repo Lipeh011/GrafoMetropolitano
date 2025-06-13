@@ -50,7 +50,7 @@ public class ResultadoRota {
             if (estacao.isAcessivelCadeirante() || estacao.isElevador() ||
                     estacao.isBanheiroAcessivel() || estacao.isSinalizacaoBraille()) {
 
-                info.append("\n♿ ").append(estacao.getNome()).append(": ");
+                info.append("\n ").append(estacao.getNome()).append(": ");
                 List<String> recursos = new ArrayList<>();
 
                 if (estacao.isAcessivelCadeirante()) recursos.add("Acesso para cadeirantes");
