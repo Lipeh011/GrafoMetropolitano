@@ -44,8 +44,8 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
 ## Como Executar o Projeto
 
 1. Clone o repositório:
-   git clone https://github.com/seuusuario/projeto-metro.git
-   cd projeto-metro
+   git clone https://github.com/Lipeh011/GrafoMetropolitano.git
+   cd GrafoMetropolitano-main
    
 2. Compile os arquivos **.java**
    
