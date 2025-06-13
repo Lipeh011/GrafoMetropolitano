@@ -20,7 +20,7 @@ public class Main {
             return;
         }
         metro.definirEstacaoAtual(estacaoAtual);
-        System.out.println("📍 Você está em: " + estacaoAtual);
+        System.out.println("Você está em: " + estacaoAtual);
 
         System.out.print("Digite o destino: ");
         String nomeDestino = scanner.nextLine();
@@ -36,16 +36,16 @@ public class Main {
 
         ResultadoRota resultado = metro.encontrarMelhorRota(destino, porTempo);
 
-        System.out.println("\n🚇 ROTA PARA " + destino);
+        System.out.println("\n ROTA PARA " + destino);
         System.out.println("=================================");
         System.out.println(resultado.getResumo());
         System.out.println("=================================");
 
         for (InstrucaoRota instrucao : resultado.getInstrucoes()) {
-            System.out.println("➡️ " + instrucao);
+            System.out.println(instrucao);
         }
 
         System.out.println("=================================");
-        System.out.println("🏁 Chegou ao destino!");
+        System.out.println("Chegou ao destino!");
     }
 }
