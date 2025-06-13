@@ -25,7 +25,7 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
 
 ---
 
-## ⚙️ Como Funciona
+## Como Funciona
 
 1. **Construção do Grafo:**  
    O sistema inicia criando manualmente um grafo de estações e conexões com dados aproximados de tempo e distância.
@@ -62,6 +62,8 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
 - API RESTful para uso em aplicações externas
 - Suporte a mais critérios de otimização (evitar baldeações, por exemplo)
 
+---
+
 ## Aprendizados
 Durante o desenvolvimento deste projeto, aprofundei meu entendimento em:
 
@@ -71,3 +73,5 @@ Durante o desenvolvimento deste projeto, aprofundei meu entendimento em:
 - A importância de um código limpo e reutilizável, pensando em expansibilidade futura;
 - Uso de orientação a objetos de forma prática, além do que é mostrado nos livros e aulas.
 - Esse projeto consolidou meus conhecimentos teóricos e me deu visão prática de como simular um sistema real, com múltiplas variáveis e decisões envolvidas.
+
+---
