@@ -7,7 +7,7 @@ public class APITransporte {
 
     public static double obterTempoReal(Estacao origem, Estacao destino) {
         try {
-            return 10.0; // 10 minutos
+            return 10.0;
         } catch (Exception e) {
             System.err.println("Erro na API: " + e.getMessage());
             double distancia = CalculadoraDistancia.calcularDistancia(
