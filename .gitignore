@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compilação
+/out/
+target/
+
+# Outros
+*.class
+*.log
+.DS_Store
