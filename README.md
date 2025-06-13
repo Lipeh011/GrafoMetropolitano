@@ -7,6 +7,14 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
 # Como funciona
 ![Metro SP em grafos](https://cdn.discordapp.com/attachments/1250289117909090375/1383090327484891216/image.png?ex=684d86be&is=684c353e&hm=ceea53114c3638c05f66a4e9c3e4b27eadf2966581a7cf0b7c932ed73d56aec6&)
 
+- Vértices (nós) → Representam as estações do metrô.
+- Arestas (ligações) → Representam as conexões diretas entre estações.
+- Pesos nas arestas → Definem o tempo ou distância entre estações (dependendo do modo de cálculo).
+- Vértices compartilhados por mais de uma linha representam estações de baldeação (troca de linha).
+- A estrutura usa grafos não direcionados e ponderados.
+- Algoritmo de Dijkstra é aplicado para encontrar a rota mais curta (tempo/distância) entre duas estações.
+
+
 ## Tecnologias e Conceitos Utilizados
 
 - **Linguagem:** Java (100% puro)
