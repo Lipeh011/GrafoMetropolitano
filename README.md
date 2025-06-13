@@ -52,6 +52,12 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
 
 ---
 
+## Saida De Dados
+
+![Saida de dados](https://media.discordapp.net/attachments/1250289117909090375/1383099560703954974/Sem_titulo.png?ex=684d8f58&is=684c3dd8&hm=d5fcdba121467bd4107af80183852e28d5b2643e106f0c854095e7076cbb16da&=&format=webp&quality=lossless)
+
+---
+
 ## Como Executar o Projeto
 
 1. Clone o repositório:
@@ -65,6 +71,8 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
    java app.App
 
 ---
+
+
 
 ## Melhorias Futuras
 
@@ -87,3 +95,4 @@ Durante o desenvolvimento deste projeto, aprofundei meu entendimento em:
 - Esse projeto consolidou meus conhecimentos teóricos e me deu visão prática de como simular um sistema real, com múltiplas variáveis e decisões envolvidas.
 
 ---
+
