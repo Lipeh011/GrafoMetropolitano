@@ -54,7 +54,7 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
 
 ## Saida De Dados
 
-![Saida de dados](https://media.discordapp.net/attachments/1250289117909090375/1383099560703954974/Sem_titulo.png?ex=684d8f58&is=684c3dd8&hm=d5fcdba121467bd4107af80183852e28d5b2643e106f0c854095e7076cbb16da&=&format=webp&quality=lossless)
+![Saida de dados](https://cdn.discordapp.com/attachments/1250289117909090375/1383099560703954974/Sem_titulo.png?ex=6856c9d8&is=68557858&hm=848484cdbfce5ec79a3488478d3045c9a48f0e438988610701a5ecf4f87f0474&)
 
 ---
 
