@@ -72,7 +72,6 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
 
 ---
 
-
 ## Melhorias Futuras
 
 - Interface gráfica com JavaFX ou aplicação mobile com React Native
