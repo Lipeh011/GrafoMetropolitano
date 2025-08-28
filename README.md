@@ -5,7 +5,7 @@ Este projeto é uma aplicação Java que simula o funcionamento da rede de metr�
 ---
 
 # Como funciona
-![Metro SP em grafos](https://cdn.discordapp.com/attachments/1250289117909090375/1383090327484891216/image.png?ex=684d86be&is=684c353e&hm=ceea53114c3638c05f66a4e9c3e4b27eadf2966581a7cf0b7c932ed73d56aec6&)
+![Metro SP em grafos](https://github.com/user-attachments/assets/4bdf8e36-9e0b-402d-b567-0dfc1c339a2a)
 
 - Vértices (nós) → Representam as estações do metrô.
 - Arestas (ligações) → Representam as conexões diretas entre estações.
